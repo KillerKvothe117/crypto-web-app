@@ -19,7 +19,7 @@ function Main() {
   return (
     <>
       <header>
-        <h1>CryptoLand SureBanker</h1>
+        <h1>CryptoLand Api Test</h1>
       </header>
 
       <div className="cryptoList">
