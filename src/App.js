@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
-          <Route path="/" exact element={<Main />} />
+          <Route path="/crypto-web-app" exact element={<Main />} />
           <Route path="/currency/:id" element={<Currency />} />
         </Routes>
       </div>
